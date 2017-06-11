@@ -1,7 +1,7 @@
 import React, { Component } from "react";
-import API from "../../utils/API";
+import API from "../utils/API";
 
-class QuoteForm extends Component {
+class Search extends Component {
   constructor() {
     super();
     this.state = {
